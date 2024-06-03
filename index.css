@@ -1,0 +1,28 @@
+/*header*/
+/*body*/
+section input {
+  height: 3%;
+}
+section .btn {
+  width: 13%;
+  border-radius: 60px;
+}
+section #submit-btn {
+  border-radius: 60px;
+  width: -moz-max-content;
+  width: max-content;
+}
+section p a {
+  color: black;
+  position: relative;
+}
+
+#Before-Footer ul {
+  font-size: 13px;
+  gap: 1px 60px;
+}
+#Before-Footer ul :nth-child(3) {
+  height: -moz-max-content;
+  height: max-content;
+  border-radius: 60px;
+}/*# sourceMappingURL=index.css.map */
